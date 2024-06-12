@@ -1,0 +1,34 @@
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek.Service\bin\Debug\net6.0\ABC.11june_Abhishek.Service.deps.json
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek.Service\bin\Debug\net6.0\ABC.11june_Abhishek.Service.dll
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek.Service\bin\Debug\net6.0\ABC.11june_Abhishek.Service.pdb
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek.Service\obj\Debug\net6.0\ABC.11june_Abhishek.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek.Service\obj\Debug\net6.0\ABC.11june_Abhishek.Service.AssemblyInfoInputs.cache
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek.Service\obj\Debug\net6.0\ABC.11june_Abhishek.Service.AssemblyInfo.cs
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek.Service\obj\Debug\net6.0\ABC.11june_Abhishek.Service.csproj.CoreCompileInputs.cache
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek.Service\obj\Debug\net6.0\ABC.11june_Abhishek.Service.dll
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek.Service\obj\Debug\net6.0\refint\ABC.11june_Abhishek.Service.dll
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek.Service\obj\Debug\net6.0\ABC.11june_Abhishek.Service.pdb
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek.Service\obj\Debug\net6.0\ref\ABC.11june_Abhishek.Service.dll
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek.Service\bin\Debug\net6.0\ABC.11june_Abhishek.DB.dll
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek.Service\bin\Debug\net6.0\ABC.11june_Abhishek.Repository.dll
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek.Service\bin\Debug\net6.0\ABC.11june_Abhishek.DB.pdb
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek.Service\bin\Debug\net6.0\ABC.11june_Abhishek.Repository.pdb
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek.Service\obj\Debug\net6.0\ABC.11june_Abhishek.Service.csproj.AssemblyReference.cache
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek.Service\obj\Debug\net6.0\ABC.11june_Abhishek.Service.csproj.CopyComplete
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek.Service\obj\Debug\net6.0\ABC.11june_Abhishek.Service.csproj.AssemblyReference.cache
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek.Service\obj\Debug\net6.0\ABC.11june_Abhishek.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek.Service\obj\Debug\net6.0\ABC.11june_Abhishek.Service.AssemblyInfoInputs.cache
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek.Service\obj\Debug\net6.0\ABC.11june_Abhishek.Service.AssemblyInfo.cs
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek.Service\obj\Debug\net6.0\ABC.11june_Abhishek.Service.csproj.CoreCompileInputs.cache
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek.Service\obj\Debug\net6.0\ABC.11june_Abhishek.Service.dll
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek.Service\obj\Debug\net6.0\refint\ABC.11june_Abhishek.Service.dll
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek.Service\obj\Debug\net6.0\ABC.11june_Abhishek.Service.pdb
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek.Service\bin\Debug\net6.0\ABC.11june_Abhishek.Service.deps.json
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek.Service\bin\Debug\net6.0\ABC.11june_Abhishek.Service.dll
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek.Service\bin\Debug\net6.0\ABC.11june_Abhishek.Service.pdb
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek.Service\bin\Debug\net6.0\ABC.11june_Abhishek.DB.dll
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek.Service\bin\Debug\net6.0\ABC.11june_Abhishek.Repository.dll
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek.Service\bin\Debug\net6.0\ABC.11june_Abhishek.DB.pdb
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek.Service\bin\Debug\net6.0\ABC.11june_Abhishek.Repository.pdb
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek.Service\obj\Debug\net6.0\ABC.11june_Abhishek.Service.csproj.CopyComplete
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek.Service\obj\Debug\net6.0\ref\ABC.11june_Abhishek.Service.dll

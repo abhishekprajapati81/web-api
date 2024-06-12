@@ -1,0 +1,148 @@
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\appsettings.Development.json
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\appsettings.json
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\ABC.11june_Abhishek.exe
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\ABC.11june_Abhishek.deps.json
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\ABC.11june_Abhishek.runtimeconfig.json
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\ABC.11june_Abhishek.dll
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\ABC.11june_Abhishek.pdb
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\Humanizer.dll
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\obj\Debug\net6.0\ABC.11june_Abhishek.csproj.AssemblyReference.cache
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\obj\Debug\net6.0\ABC.11june_Abhishek.GeneratedMSBuildEditorConfig.editorconfig
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\obj\Debug\net6.0\ABC.11june_Abhishek.AssemblyInfoInputs.cache
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\obj\Debug\net6.0\ABC.11june_Abhishek.AssemblyInfo.cs
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\obj\Debug\net6.0\ABC.11june_Abhishek.csproj.CoreCompileInputs.cache
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\obj\Debug\net6.0\ABC.11june_Abhishek.MvcApplicationPartsAssemblyInfo.cs
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\obj\Debug\net6.0\ABC.11june_Abhishek.MvcApplicationPartsAssemblyInfo.cache
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\obj\Debug\net6.0\staticwebassets.build.json
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\obj\Debug\net6.0\staticwebassets.development.json
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\obj\Debug\net6.0\staticwebassets\msbuild.ABC.11june_Abhishek.Microsoft.AspNetCore.StaticWebAssets.props
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\obj\Debug\net6.0\staticwebassets\msbuild.build.ABC.11june_Abhishek.props
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ABC.11june_Abhishek.props
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ABC.11june_Abhishek.props
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\obj\Debug\net6.0\staticwebassets.pack.json
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\obj\Debug\net6.0\scopedcss\bundle\ABC.11june_Abhishek.styles.css
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\obj\Debug\net6.0\ABC.11june_Abhishek.csproj.CopyComplete
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\obj\Debug\net6.0\ABC.11june_Abhishek.dll
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\obj\Debug\net6.0\refint\ABC.11june_Abhishek.dll
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\obj\Debug\net6.0\ABC.11june_Abhishek.pdb
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\obj\Debug\net6.0\ABC.11june_Abhishek.genruntimeconfig.cache
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\obj\Debug\net6.0\ref\ABC.11june_Abhishek.dll
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\ABC.11june_Abhishek.DB.dll
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\ABC.11june_Abhishek.DB.pdb
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\ABC.11june_Abhishek.Repository.dll
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\ABC.11june_Abhishek.Service.dll
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\ABC.11june_Abhishek.Service.pdb
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\ABC.11june_Abhishek.Repository.pdb
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\obj\Debug\net6.0\ABC.11june_Abhishek.csproj.AssemblyReference.cache
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\obj\Debug\net6.0\ABC.11june_Abhishek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\obj\Debug\net6.0\ABC.11june_Abhishek.AssemblyInfoInputs.cache
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\obj\Debug\net6.0\ABC.11june_Abhishek.AssemblyInfo.cs
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\obj\Debug\net6.0\ABC.11june_Abhishek.csproj.CoreCompileInputs.cache
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\obj\Debug\net6.0\ABC.11june_Abhishek.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\obj\Debug\net6.0\ABC.11june_Abhishek.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\obj\Debug\net6.0\ABC.11june_Abhishek.dll
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\obj\Debug\net6.0\refint\ABC.11june_Abhishek.dll
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\obj\Debug\net6.0\ABC.11june_Abhishek.pdb
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\appsettings.json
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\ABC.11june_Abhishek.exe
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\ABC.11june_Abhishek.deps.json
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\ABC.11june_Abhishek.runtimeconfig.json
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\ABC.11june_Abhishek.dll
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\ABC.11june_Abhishek.pdb
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\ABC.11june_Abhishek.DB.dll
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\ABC.11june_Abhishek.Repository.dll
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\ABC.11june_Abhishek.Service.dll
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\ABC.11june_Abhishek.DB.pdb
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\ABC.11june_Abhishek.Service.pdb
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\bin\Debug\net6.0\ABC.11june_Abhishek.Repository.pdb
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\obj\Debug\net6.0\staticwebassets\msbuild.ABC.11june_Abhishek.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\obj\Debug\net6.0\staticwebassets\msbuild.build.ABC.11june_Abhishek.props
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ABC.11june_Abhishek.props
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ABC.11june_Abhishek.props
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\obj\Debug\net6.0\scopedcss\bundle\ABC.11june_Abhishek.styles.css
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\obj\Debug\net6.0\ABC.11june_Abhishek.csproj.CopyComplete
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\obj\Debug\net6.0\ABC.11june_Abhishek.genruntimeconfig.cache
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek\obj\Debug\net6.0\ref\ABC.11june_Abhishek.dll

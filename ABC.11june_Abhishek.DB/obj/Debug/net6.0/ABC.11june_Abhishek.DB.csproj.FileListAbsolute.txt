@@ -1,0 +1,28 @@
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek.DB\obj\Debug\net6.0\ABC.11june_Abhishek.DB.GeneratedMSBuildEditorConfig.editorconfig
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek.DB\obj\Debug\net6.0\ABC.11june_Abhishek.DB.AssemblyInfoInputs.cache
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek.DB\obj\Debug\net6.0\ABC.11june_Abhishek.DB.AssemblyInfo.cs
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek.DB\obj\Debug\net6.0\ABC.11june_Abhishek.DB.csproj.CoreCompileInputs.cache
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek.DB\obj\Debug\net6.0\ABC.11june_Abhishek.DB.csproj.AssemblyReference.cache
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek.DB\bin\Debug\net6.0\ABC.11june_Abhishek.DB.deps.json
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek.DB\bin\Debug\net6.0\ABC.11june_Abhishek.DB.runtimeconfig.json
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek.DB\bin\Debug\net6.0\ABC.11june_Abhishek.DB.dll
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek.DB\bin\Debug\net6.0\ABC.11june_Abhishek.DB.pdb
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek.DB\obj\Debug\net6.0\ABC.11june_Abhishek.DB.dll
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek.DB\obj\Debug\net6.0\refint\ABC.11june_Abhishek.DB.dll
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek.DB\obj\Debug\net6.0\ABC.11june_Abhishek.DB.pdb
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek.DB\obj\Debug\net6.0\ABC.11june_Abhishek.DB.genruntimeconfig.cache
+D:\practical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek.DB\obj\Debug\net6.0\ref\ABC.11june_Abhishek.DB.dll
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek.DB\bin\Debug\net6.0\ABC.11june_Abhishek.DB.deps.json
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek.DB\bin\Debug\net6.0\ABC.11june_Abhishek.DB.runtimeconfig.json
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek.DB\bin\Debug\net6.0\ABC.11june_Abhishek.DB.dll
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek.DB\bin\Debug\net6.0\ABC.11june_Abhishek.DB.pdb
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek.DB\obj\Debug\net6.0\ABC.11june_Abhishek.DB.csproj.AssemblyReference.cache
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek.DB\obj\Debug\net6.0\ABC.11june_Abhishek.DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek.DB\obj\Debug\net6.0\ABC.11june_Abhishek.DB.AssemblyInfoInputs.cache
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek.DB\obj\Debug\net6.0\ABC.11june_Abhishek.DB.AssemblyInfo.cs
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek.DB\obj\Debug\net6.0\ABC.11june_Abhishek.DB.csproj.CoreCompileInputs.cache
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek.DB\obj\Debug\net6.0\ABC.11june_Abhishek.DB.dll
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek.DB\obj\Debug\net6.0\refint\ABC.11june_Abhishek.DB.dll
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek.DB\obj\Debug\net6.0\ABC.11june_Abhishek.DB.pdb
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek.DB\obj\Debug\net6.0\ABC.11june_Abhishek.DB.genruntimeconfig.cache
+C:\Users\Kapxx Cool\OneDrive\Desktop\Asp.net and angular\pratical test 2\ABC.11june_Abhishek\ABC.11june_Abhishek\ABC.11june_Abhishek.DB\obj\Debug\net6.0\ref\ABC.11june_Abhishek.DB.dll

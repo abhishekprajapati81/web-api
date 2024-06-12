@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>ABC._11june_Abhishek.Service</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ABC.11june_Abhishek.DB\ABC.11june_Abhishek.DB.csproj" />
+    <ProjectReference Include="..\ABC.11june_Abhishek.Repository\ABC.11june_Abhishek.Repository.csproj" />
+  </ItemGroup>
+
+</Project>
